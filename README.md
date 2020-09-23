@@ -4,7 +4,7 @@
 
 
 ### Welcome to my page!
-I'm Carlos, Senior Software Engineer developer from <img src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" width="13"/> <b>Rio de Janeiro, Brazil</b> and I love to talk about software architecture, TDD, DDD, JavaScript and BBQ.
+I'm Carlos, Senior Software Engineer developer from <img src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" width="13"/> <b>Rio de Janeiro, Brazil</b> and I love to talk about software architecture, TDD, DDD, Ruby, JavaScript and BBQ.
 
 ### Things I code with
 <p>
